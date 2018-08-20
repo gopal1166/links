@@ -11,3 +11,8 @@ Topic: Creating custom user model and custom authentication in Django &
         Because by default custom user model is not registered with admin panel
       
 https://www.pythoncircle.com/post/28/creating-custom-user-model-and-custom-authentication-in-django/
+
+
+# Adding Authorization: Token 'token string' header to the requests using interceptors
+
+https://gist.github.com/srph/38f67a10e991b6cb2d83
