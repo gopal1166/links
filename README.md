@@ -22,8 +22,8 @@ https://gist.github.com/srph/38f67a10e991b6cb2d83
 
 
 
-#Django:
-storing python object in django  request.session
+# Django:
+# storing python object(instance) in django  request.session
 ex: connection obje
        request.session['connection'] = connection
 
