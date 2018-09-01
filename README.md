@@ -19,3 +19,16 @@ https://www.pythoncircle.com/post/28/creating-custom-user-model-and-custom-authe
 # Adding Authorization: Token 'token string' header to the requests using interceptors
 
 https://gist.github.com/srph/38f67a10e991b6cb2d83
+
+
+
+#Django:
+storing python object in django  request.session
+ex: connection obje
+       request.session['connection'] = connection
+
+Error:TypeError: <Connection host=dllgststapp2v.jdadelivers.com port=2022> is not JSON serializable
+
+sol:
+SESSION_SERIALIZER = 'django.contrib.sessions.serializers.PickleSerializer'
+SESSION_EXPIRE_AT_BROWSER_CLOSE=True
