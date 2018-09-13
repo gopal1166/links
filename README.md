@@ -32,3 +32,9 @@ Error:TypeError: <Connection host=dllgststapp2v.jdadelivers.com port=2022> is no
 sol:
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.PickleSerializer'
 SESSION_EXPIRE_AT_BROWSER_CLOSE=True
+
+# upgrade pip:
+        $ sudo -H  python -m  pip install --upgrade pip
+
+# swith user to root:
+        $ sudo su -
