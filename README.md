@@ -43,3 +43,9 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE=True
 # Django:
 # sending email error: SMTPAuthenticationError(code, resp)
  sol: https://accounts.google.com/DisplayUnlockCaptcha
+  
+ 
+# To view the error.log in apache2:
+        path /var/log/apache2
+        $ less error.log
+        then Shift+G
