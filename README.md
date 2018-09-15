@@ -49,3 +49,9 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE=True
         path /var/log/apache2
         $ less error.log
         then Shift+G
+
+# Error getting while try to run celery worker process
+        ImportError: No module named celery
+        Sol: may be celery pkg is not installed 
+                        or
+             we not pointing the correct virual environment
