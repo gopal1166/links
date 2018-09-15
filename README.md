@@ -38,3 +38,8 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE=True
 
 # swith user to root:
         $ sudo su -
+        
+        
+# Django:
+# sending email error: SMTPAuthenticationError(code, resp)
+ sol: https://accounts.google.com/DisplayUnlockCaptcha
