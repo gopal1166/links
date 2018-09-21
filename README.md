@@ -55,3 +55,10 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE=True
         Sol: may be celery pkg is not installed 
                         or
              we not pointing the correct virual environment
+             
+             
+# react grid virtual scroling:
+       https://devexpress.github.io/devextreme-reactive/react/grid/docs/guides/virtual-scrolling/
+       
+# React js dashboard
+        http://akveo.com/blur-admin/#/tables/smart
