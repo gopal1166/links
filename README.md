@@ -62,3 +62,17 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE=True
        
 # React js dashboard
         http://akveo.com/blur-admin/#/tables/smart
+        
+# React js:
+   To go back to the previous page
+   https://stackoverflow.com/questions/30915173/react-router-go-back-a-page-how-do-you-configure-history
+   
+   import withRouter
+
+import { withRouter } from 'react-router-dom';
+Export your component as:
+
+export withRouter(nameofcomponent) 
+Example, on button click, call goBack:
+
+<button onClick={this.props.history.goBack()}>Back</button>
