@@ -76,3 +76,10 @@ export withRouter(nameofcomponent)
 Example, on button click, call goBack:
 
 <button onClick={this.props.history.goBack()}>Back</button>
+
+
+# React js:
+   Modals:
+   https://reactstrap.github.io/components/modals/
+
+
