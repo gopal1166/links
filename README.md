@@ -35,6 +35,10 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE=True
 
 # upgrade pip:
         $ sudo -H  python -m  pip install --upgrade pip
+        
+        
+# React js Loops and callbacks
+        http://www.codeblocq.com/2015/12/Loops-and-callbacks-in-React/
 
 # swith user to root:
         $ sudo su -
