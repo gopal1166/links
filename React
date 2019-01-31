@@ -7,3 +7,6 @@
   
   index.js:
   $ npm i semantic-ui --save
+
+# Enzyme testing library cheetsheet:
+   https://devhints.io/enzyme
