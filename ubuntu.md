@@ -1,4 +1,4 @@
-[To find network internet](https://askubuntu.com/questions/396837/detecting-the-name-of-a-network-device-in-bash)
+[To find network interface name](https://askubuntu.com/questions/396837/detecting-the-name-of-a-network-device-in-bash)
 
 [To monitor bandwidth consumption](https://www.maketecheasier.com/process-using-excessive-bandwidth-linux/)
 
